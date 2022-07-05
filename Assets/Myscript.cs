@@ -8,6 +8,10 @@ public class Myscript : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello world");
+        int x = 10;
+        int y = 20;
+        int z = x + y;
+        Debug.Log(z);
     }
 
     
